@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RATIWALRAHUL
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning frontend web development
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: rahul
