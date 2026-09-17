@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1400"
+     height="430"
+     viewBox="0 0 1400 430">
+
+  <defs>
+
+    <linearGradient id="background"
+                    x1="0"
+                    y1="0"
+                    x2="1400"
+                    y2="430">
+
+      <stop offset="0%" stop-color="#080A0F"/>
+      <stop offset="55%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#080A0F"/>
+
+    </linearGradient>
+
+    <filter id="glow">
+
+      <feGaussianBlur stdDeviation="18"/>
+
+    </filter>
+
+  </defs>
+
+  <rect
+    width="1400"
+    height="430"
+    rx="24"
+    fill="url(#background)"
+  />
+
+  <rect
+    x="1"
+    y="1"
+    width="1398"
+    height="428"
+    rx="24"
+    fill="none"
+    stroke="#242B36"
+  />
+
+  <circle
+    cx="1260"
+    cy="70"
+    r="130"
+    fill="#A78BFA"
+    opacity="0.08"
+    filter="url(#glow)"
+  />
+
+  <text
+    x="45"
+    y="55"
+    fill="#FFFFFF"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="23"
+    font-weight="700"
+    letter-spacing="3">
+
+    GITHUB ACTIVITY
+
+  </text>
+
+  <text
+    x="45"
+    y="82"
+    fill="#8B949E"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="13">
+
+    RATIWALRAHUL · contribution activity
+
+  </text>
+
+  <text
+    x="700"
+    y="210"
+    text-anchor="middle"
+    fill="#A78BFA"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="20"
+    font-weight="600">
+
+    SYNCING GITHUB DATA…
+
+  </text>
+
+  <text
+    x="700"
+    y="240"
+    text-anchor="middle"
+    fill="#8B949E"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="13">
+
+    GitHub Actions will generate the live contribution graph.
+
+  </text>
+
+  <text
+    x="45"
+    y="390"
+    fill="#596474"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="10">
+
+    DATA SOURCE: GITHUB CONTRIBUTION GRAPHQL API
+
+  </text>
+
+</svg>
