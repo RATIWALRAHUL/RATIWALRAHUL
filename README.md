@@ -1,251 +1,342 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Rahul Kumawat — Full-Stack Developer, Product Builder, Creative Technologist"/>
+# RAHUL KUMAWAT
 
-<img src="./assets/typing.svg" width="560" alt="Turning ideas into polished digital products"/>
+### Full-Stack Developer · Product Builder · Creative Technologist
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Building+digital+products+that+people+actually+use;Web+%7C+Mobile+%7C+Backend+%7C+Real-Time;From+idea+%E2%86%92+design+%E2%86%92+code+%E2%86%92+production"
+  alt="Typing introduction"
+/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/ratiwalrahulkumawat"><img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=A78BFA&labelColor=1A1A1A" /></a>
-<a href="https://www.instagram.com/ratiwalrahul"><img src="https://img.shields.io/badge/Instagram-1A1A1A?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=1A1A1A" /></a>
+<a href="https://github.com/RATIWALRAHUL">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ratiwalrahulkumawat">
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/ratiwalrahul">
+<img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<br/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=RATIWALRAHUL&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square" />
 
 </div>
 
-<br/>
+---
 
-## Profile
+## `01` — PROFILE
 
-I build production-grade software across the full stack — from interface design through backend architecture to deployment. My work spans web platforms, mobile applications, and real-time systems, with an emphasis on clean engineering and considered product design.
-
-<table width="100%">
+<table>
 <tr>
-<td width="25%" align="center">
+<td width="62%" valign="top">
 
-**4+**
+### I build products, not just projects.
+
+I'm **Rahul Kumawat**, a full-stack developer focused on turning ideas into polished, production-ready digital products.
+
+I work across the entire product lifecycle:
+
+**Product → UI/UX → Frontend → Backend → Database → Real-Time → Deployment**
+
+I enjoy building products where **engineering and design actually work together**.
+
 <br/>
-<sub>Shipped Products</sub>
+
+**Currently building**
+
+`Web Applications` · `Mobile Apps` · `Real-Time Systems` · `Product Experiences`
 
 </td>
-<td width="25%" align="center">
 
-**Full-Stack**
-<br/>
-<sub>Web · Mobile · Backend</sub>
+<td width="38%" valign="top">
 
-</td>
-<td width="25%" align="center">
+### QUICK PROFILE
+
+**Role**
+
+Full-Stack Developer
+
+**Primary**
+
+TypeScript · React · Next.js
+
+**Backend**
+
+Node.js · Express · MongoDB
+
+**Mobile**
+
+React Native · Android
 
 **Real-Time**
-<br/>
-<sub>Messaging & Communication</sub>
 
-</td>
-<td width="25%" align="center">
+Socket.io · Redis
 
-**Product-Minded**
-<br/>
-<sub>Engineering + Design</sub>
+**Design**
+
+Figma · UI/UX
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-## Technical Skills
+## `02` — WHAT I DO
 
-<table width="100%">
+<div align="center">
+
+|  | AREA | FOCUS |
+|:---:|---|---|
+| ◈ | **PRODUCT ENGINEERING** | Turning product ideas into real software |
+| ◉ | **WEB DEVELOPMENT** | Modern full-stack applications |
+| △ | **MOBILE DEVELOPMENT** | React Native & native Android |
+| ◎ | **BACKEND SYSTEMS** | APIs, databases & architecture |
+| ≋ | **REAL-TIME** | Messaging, presence & communication |
+| ✦ | **PRODUCT UI/UX** | Clean interfaces & design systems |
+
+</div>
+
+---
+
+## `03` — SELECTED WORK
+
+<table>
 <tr>
-<td width="20%" valign="top"><strong>Frontend</strong></td>
-<td width="80%">
 
-![React](https://img.shields.io/badge/React-1A1A1A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-1A1A1A?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-1A1A1A?style=flat-square&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-1A1A1A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+<td width="50%" valign="top">
 
-</td>
-</tr>
-<tr>
-<td width="20%" valign="top"><strong>Backend</strong></td>
-<td width="80%">
+### 🟣 RUBARU
 
-![Node.js](https://img.shields.io/badge/Node.js-1A1A1A?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-1A1A1A?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-1A1A1A?style=flat-square&logo=mongodb&logoColor=47A248)
-![Redis](https://img.shields.io/badge/Redis-1A1A1A?style=flat-square&logo=redis&logoColor=DC382D)
-![Socket.io](https://img.shields.io/badge/Socket.io-1A1A1A?style=flat-square&logo=socketdotio&logoColor=white)
+**Social · Dating · Messaging · Calling**
+
+A social + dating platform combining discovery, messaging, presence and audio/video communication into one product.
+
+**Built with**
+
+`React Native`  
+`Node.js` · `Express`  
+`MongoDB` · `Socket.io` · `Redis`
 
 </td>
-</tr>
-<tr>
-<td width="20%" valign="top"><strong>Mobile</strong></td>
-<td width="80%">
 
-![React Native](https://img.shields.io/badge/React_Native-1A1A1A?style=flat-square&logo=react&logoColor=61DAFB)
-![Android Studio](https://img.shields.io/badge/Android_Studio-1A1A1A?style=flat-square&logo=androidstudio&logoColor=3DDC84)
+<td width="50%" valign="top">
 
-</td>
-</tr>
-<tr>
-<td width="20%" valign="top"><strong>Tooling</strong></td>
-<td width="80%">
+### 🟠 RUCHIKA CREATION
 
-![Git](https://img.shields.io/badge/Git-1A1A1A?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-1A1A1A?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-1A1A1A?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/Figma-1A1A1A?style=flat-square&logo=figma&logoColor=F24E1E)
+**Luxury Ethnicwear · E-Commerce**
 
-</td>
-</tr>
-</table>
+A premium e-commerce experience focused on refined presentation, product discovery and a modern shopping journey.
 
-<br/>
+**Built with**
 
-## Selected Work
-
-<table width="100%">
-
-<tr>
-<th align="left" width="24%">Project</th>
-<th align="left" width="42%">Description</th>
-<th align="left" width="34%">Stack</th>
-</tr>
-
-<tr>
-<td valign="top">
-
-**RUBARU**
-<br/>
-<sub>Social · Dating · Messaging</sub>
-
-</td>
-<td valign="top">
-
-A social and dating platform combining discovery, messaging, presence, and audio/video communication into one product experience.
-
-</td>
-<td valign="top">
-
-`React Native` `Node.js` `Express`
-`MongoDB` `Socket.io` `Redis`
-
-</td>
-</tr>
-
-<tr><td colspan="3"><br/></td></tr>
-
-<tr>
-<td valign="top">
-
-**RUCHIKA CREATION**
-<br/>
-<sub>Luxury Ethnicwear · E-Commerce</sub>
-
-</td>
-<td valign="top">
-
-A premium e-commerce platform focused on refined presentation, intuitive product discovery, and a modern shopping journey.
-
-</td>
-<td valign="top">
-
-`Next.js` `TypeScript` `React`
+`Next.js`  
+`TypeScript` · `React`  
 `Tailwind CSS`
 
 </td>
-</tr>
 
-<tr><td colspan="3"><br/></td></tr>
+</tr>
 
 <tr>
-<td valign="top">
 
-**RATIWAL DREAM ESTATES**
-<br/>
-<sub>Real Estate · Lead Generation</sub>
+<td width="50%" valign="top">
 
-</td>
-<td valign="top">
+### 🔵 RATIWAL DREAM ESTATES
 
-A real-estate platform built around premium property presentation, discovery, lead capture, and business workflows.
+**Real Estate · Property Discovery**
 
-</td>
-<td valign="top">
+A modern real-estate platform focused on premium property presentation, discovery, lead capture and business workflows.
 
-`Next.js` `React` `TypeScript`
-`MongoDB`
+**Built with**
+
+`Next.js` · `React`  
+`TypeScript` · `MongoDB`
 
 </td>
+
+<td width="50%" valign="top">
+
+### ⚡ PARTHAV TECHNOLOGIES
+
+**Technology · Digital Products**
+
+Digital product engineering focused on modern interfaces, practical business workflows and maintainable code.
+
+**Built with**
+
+`TypeScript`  
+`React` · `Next.js`
+
+</td>
+
 </tr>
-
-<tr><td colspan="3"><br/></td></tr>
-
-<tr>
-<td valign="top">
-
-**PARTHAV TECHNOLOGIES**
-<br/>
-<sub>Technology · Digital Products</sub>
-
-</td>
-<td valign="top">
-
-Digital product engineering focused on modern interfaces, practical business workflows, and maintainable, scalable code.
-
-</td>
-<td valign="top">
-
-`TypeScript` `React` `Next.js`
-
-</td>
-</tr>
-
 </table>
 
 <br/>
 
-## Focus Areas
+<div align="center">
 
-| Area | What it means for my work |
-|:--|:--|
-| **Web** | Modern, full-stack applications built for production, not prototypes |
-| **Mobile** | React Native apps that feel native, not bolted-on |
-| **Backend** | APIs, data models, and architecture that scale with the product |
-| **Real-Time** | Messaging, presence, and live communication systems |
-| **Product / UI-UX** | Interfaces and design systems built with intent |
+<a href="https://github.com/RATIWALRAHUL?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<br/>
+</div>
 
-## GitHub Activity
+---
+
+## `04` — TECHNOLOGY
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RATIWALRAHUL&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=dark&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" height="165" alt="Rahul's GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RATIWALRAHUL&layout=compact&hide_border=true&langs_count=8&theme=dark&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" height="165" alt="Top languages"/>
+### FRONTEND
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css&theme=dark&perline=7" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=RATIWALRAHUL&hide_border=true&theme=dark&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub streak stats"/>
+### BACKEND & DATABASE
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis&theme=dark&perline=6" />
+
+<br/><br/>
+
+### MOBILE & TOOLS
+
+<img src="https://skillicons.dev/icons?i=react,androidstudio,git,github,vscode,figma&theme=dark&perline=6" />
+
+</div>
+
+---
+
+## `05` — ENGINEERING MINDSET
+
+<div align="center">
+
+```text
+             IDEA
+              │
+              ▼
+       PRODUCT THINKING
+              │
+              ▼
+          UI / UX
+              │
+              ▼
+          FRONTEND
+              │
+              ▼
+       API + BACKEND
+              │
+              ▼
+          DATABASE
+              │
+              ▼
+       REAL-TIME SYSTEMS
+              │
+              ▼
+       TEST → SHIP → ITERATE
+```
+
+</div>
+
+---
+
+## `06` — CURRENTLY BUILDING
+
+> **Turning ambitious ideas into production-ready products.**
+
+```text
+01  Full-stack product experiences
+02  React Native mobile applications
+03  Real-time communication architecture
+04  Scalable Node.js backend systems
+05  Premium interfaces & design systems
+06  Better developer workflows
+```
+
+---
+
+## `07` — GITHUB
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=RATIWALRAHUL&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9"
+  height="170"
+  alt="Rahul's GitHub statistics"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RATIWALRAHUL&layout=compact&hide_border=true&langs_count=7&theme=transparent&title_color=A78BFA&text_color=C9D1D9"
+  height="170"
+  alt="Rahul's top languages"
+/>
 
 </div>
 
 <br/>
 
-## Get in Touch
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com/?user=RATIWALRAHUL&theme=transparent&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E"
+  alt="Rahul's GitHub streak"
+/>
+
+</div>
+
+---
+
+## `08` — CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-I'm always open to discussing new projects, collaborations, or product ideas worth building.
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=RATIWALRAHUL&bg_color=0D1117&color=C9D1D9&line=A78BFA&point=FFFFFF&area=true&hide_border=true"
+  width="100%"
+  alt="Rahul's GitHub contribution activity"
+/>
+
+</div>
+
+---
+
+## `09` — CONNECT
+
+<div align="center">
+
+### Have an idea worth building?
+
+**Let's turn it into something real.**
 
 <br/>
 
-<a href="https://www.linkedin.com/in/ratiwalrahulkumawat"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-A78BFA?style=for-the-badge&logoColor=0A0A0A&logo=linkedin" /></a>
-<a href="https://www.instagram.com/ratiwalrahul"><img src="https://img.shields.io/badge/Follow_on_Instagram-A78BFA?style=for-the-badge&logoColor=0A0A0A&logo=instagram" /></a>
+<a href="https://www.linkedin.com/in/ratiwalrahulkumawat">
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-A78BFA?style=for-the-badge&logo=linkedin&logoColor=0D1117" />
+</a>
+
+&nbsp;
+
+<a href="https://www.instagram.com/ratiwalrahul">
+<img src="https://img.shields.io/badge/FOLLOW_ON_INSTAGRAM-A78BFA?style=for-the-badge&logo=instagram&logoColor=0D1117" />
+</a>
+
+<br/>
+<br/>
+
+<sub>Rahul Kumawat · India</sub>
 
 <br/><br/>
 
-<sub>© Rahul Kumawat · Built with intent.</sub>
+`BUILD · SHIP · ITERATE`
 
 </div>
