@@ -4,25 +4,33 @@
 
 ### Full-Stack Developer · Product Builder · Creative Technologist
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Building+digital+products+that+people+actually+use;Web+%7C+Mobile+%7C+Backend+%7C+Real-Time;From+idea+%E2%86%92+design+%E2%86%92+code+%E2%86%92+production" alt="Rahul Kumawat"/>
-
 <br/>
 
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Building+digital+products+that+people+actually+use;Web+%7C+Mobile+%7C+Backend+%7C+Real-Time;From+idea+%E2%86%92+design+%E2%86%92+code+%E2%86%92+production"
+  alt="Rahul Kumawat"
+/>
+
+<br/><br/>
+
 <a href="https://github.com/RATIWALRAHUL">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/ratiwalrahulkumawat">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn"/>
 </a>
-
+&nbsp;
 <a href="https://www.instagram.com/ratiwalrahul">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=A78BFA" alt="Instagram"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=RATIWALRAHUL&label=PROFILE+VIEWS&color=A78BFA&style=flat-square" alt="Profile views"/>
+<img
+  src="https://komarev.com/ghpvc/?username=RATIWALRAHUL&label=PROFILE+VIEWS&color=A78BFA&style=flat-square"
+  alt="Profile views"
+/>
 
 </div>
 
@@ -30,10 +38,10 @@
 
 ## `01` — PROFILE
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="62%" valign="top">
+<td width="64%" valign="top">
 
 ### I build products, not just projects.
 
@@ -43,35 +51,47 @@ I work across the complete product lifecycle:
 
 **Product → UI/UX → Frontend → Backend → Database → Real-Time → Deployment**
 
-My approach is simple:
+I care about two things equally:
 
-> Build things that look considered, work reliably, and solve an actual problem.
+**How it works.**  
+Clean architecture, reliable systems, maintainable code.
+
+**How it feels.**  
+Thoughtful interfaces, clear interactions, and polished experiences.
+
+> Build with intent. Ship with purpose. Keep improving.
 
 </td>
 
-<td width="38%" valign="top">
+<td width="36%" valign="top">
 
 ### CURRENT STACK
 
 **Frontend**
 
-`React` · `Next.js` · `TypeScript`
+`React`  
+`Next.js`  
+`TypeScript`
 
 **Backend**
 
-`Node.js` · `Express` · `MongoDB`
-
-**Mobile**
-
-`React Native` · `Android`
+`Node.js`  
+`Express`  
+`MongoDB`
 
 **Real-Time**
 
-`Socket.io` · `Redis`
+`Socket.io`  
+`Redis`
+
+**Mobile**
+
+`React Native`  
+`Android`
 
 **Design**
 
-`Figma` · UI/UX
+`Figma`
 
 </td>
 
@@ -82,6 +102,8 @@ My approach is simple:
 
 ## `02` — WHAT I BUILD
 
+<div align="center">
+
 <table width="100%">
 <tr>
 
@@ -89,7 +111,9 @@ My approach is simple:
 
 ### ◈ PRODUCT
 
-Turning ideas into complete digital products.
+Digital products designed around real users and real workflows.
+
+<br/>
 
 `Web Apps`
 
@@ -105,7 +129,9 @@ Turning ideas into complete digital products.
 
 ### ◎ ENGINEERING
 
-Building the systems behind the interface.
+Systems that are built to support the product beyond the first release.
+
+<br/>
 
 `APIs`
 
@@ -121,7 +147,9 @@ Building the systems behind the interface.
 
 ### ≋ REAL-TIME
 
-Building experiences that communicate instantly.
+Experiences where communication needs to happen instantly.
+
+<br/>
 
 `Messaging`
 
@@ -135,6 +163,8 @@ Building experiences that communicate instantly.
 
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -152,11 +182,11 @@ Building experiences that communicate instantly.
 
 A social and dating platform combining discovery, messaging, presence, and audio/video communication into one product experience.
 
-**Stack**
+**Built with**
 
-`React Native` `Node.js`  
-`Express` `MongoDB`  
-`Socket.io` `Redis`
+`React Native` · `Node.js`  
+`Express` · `MongoDB`  
+`Socket.io` · `Redis`
 
 </td>
 
@@ -166,15 +196,19 @@ A social and dating platform combining discovery, messaging, presence, and audio
 
 **Luxury Ethnicwear · E-Commerce**
 
-A premium e-commerce platform focused on refined presentation, product discovery, and a modern shopping journey.
+A premium e-commerce experience focused on refined presentation, intuitive product discovery, and a modern shopping journey.
 
-**Stack**
+**Built with**
 
-`Next.js` `TypeScript`  
-`React` `Tailwind CSS`
+`Next.js` · `TypeScript`  
+`React` · `Tailwind CSS`
 
 </td>
 
+</tr>
+
+<tr>
+<td colspan="2"><br/></td>
 </tr>
 
 <tr>
@@ -185,12 +219,12 @@ A premium e-commerce platform focused on refined presentation, product discovery
 
 **Real Estate · Property Discovery**
 
-A modern real-estate platform focused on premium property presentation, discovery, lead capture, and business workflows.
+A modern real-estate platform built around premium property presentation, discovery, lead generation, and business workflows.
 
-**Stack**
+**Built with**
 
-`Next.js` `React`  
-`TypeScript` `MongoDB`
+`Next.js` · `React`  
+`TypeScript` · `MongoDB`
 
 </td>
 
@@ -202,9 +236,9 @@ A modern real-estate platform focused on premium property presentation, discover
 
 Digital product engineering focused on modern interfaces, practical business workflows, and maintainable code.
 
-**Stack**
+**Built with**
 
-`TypeScript` `React`  
+`TypeScript` · `React`  
 `Next.js`
 
 </td>
@@ -218,9 +252,10 @@ Digital product engineering focused on modern interfaces, practical business wor
 <div align="center">
 
 <a href="https://github.com/RATIWALRAHUL?tab=repositories">
-
-<img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-111111?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-
+<img
+src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-111111?style=for-the-badge&logo=github&logoColor=FFFFFF"
+alt="Explore repositories"
+/>
 </a>
 
 </div>
@@ -233,102 +268,86 @@ Digital product engineering focused on modern interfaces, practical business wor
 
 ### FRONTEND
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css&theme=dark&perline=7" alt="Frontend technologies"/>
+<img
+src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css&theme=dark&perline=7"
+alt="Frontend"
+/>
 
 <br/><br/>
 
 ### BACKEND & DATABASE
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis&theme=dark&perline=6" alt="Backend technologies"/>
+<img
+src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis&theme=dark&perline=6"
+alt="Backend and database"
+/>
 
 <br/><br/>
 
 ### MOBILE & TOOLS
 
-<img src="https://skillicons.dev/icons?i=react,androidstudio,git,github,vscode,figma&theme=dark&perline=6" alt="Mobile and tools"/>
+<img
+src="https://skillicons.dev/icons?i=react,androidstudio,git,github,vscode,figma&theme=dark&perline=6"
+alt="Mobile and tools"
+/>
 
 </div>
 
 ---
 
-## `05` — ENGINEERING MINDSET
-
-<div align="center">
-
-```text
-IDEA
- │
- ▼
-PRODUCT THINKING
- │
- ▼
-UI / UX
- │
- ▼
-FRONTEND
- │
- ▼
-API + BACKEND
- │
- ▼
-DATABASE
- │
- ▼
-REAL-TIME
- │
- ▼
-TEST → SHIP → ITERATE
-```
-
-</div>
-
----
-
-## `06` — CURRENTLY BUILDING
+## `05` — HOW I APPROACH PRODUCTS
 
 <table width="100%">
 
 <tr>
-<td width="50%">
 
-**01 — Full-Stack Products**
+<td width="25%" align="center">
 
-Production-ready applications from interface to backend.
+### `01`
 
-</td>
+**DISCOVER**
 
-<td width="50%">
-
-**02 — Mobile Experiences**
-
-React Native applications with native-quality interactions.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-**03 — Real-Time Systems**
-
-Messaging, presence, notifications, and live communication.
+Understand the problem, users, and product goal.
 
 </td>
 
-<td>
+<td width="25%" align="center">
 
-**04 — Product Interfaces**
+### `02`
 
-Premium UI systems designed around the actual product.
+**DESIGN**
+
+Shape the experience before writing unnecessary code.
 
 </td>
+
+<td width="25%" align="center">
+
+### `03`
+
+**BUILD**
+
+Create the frontend, backend, data, and real-time systems.
+
+</td>
+
+<td width="25%" align="center">
+
+### `04`
+
+**SHIP**
+
+Test, deploy, observe, iterate, and improve.
+
+</td>
+
 </tr>
 
 </table>
 
 ---
 
-## `07` — GITHUB ACTIVITY
+## `06` — GITHUB ACTIVITY
 
 <div align="center">
 
@@ -342,76 +361,131 @@ alt="Rahul Kumawat GitHub contribution activity"
 
 ---
 
-## `08` — GITHUB STATS
+## `07` — GITHUB SNAPSHOT
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=RATIWALRAHUL&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9"
-height="170"
-alt="GitHub statistics"
-/>
+<table>
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=RATIWALRAHUL&layout=compact&hide_border=true&langs_count=7&theme=transparent&title_color=A78BFA&text_color=C9D1D9"
-height="170"
-alt="Top languages"
-/>
+<tr>
 
-<br/><br/>
+<td align="center">
 
+### BUILDING
+
+**4+**
+
+<sub>Selected Products</sub>
+
+</td>
+
+<td width="30"></td>
+
+<td align="center">
+
+### FOCUS
+
+**FULL-STACK**
+
+<sub>Web · Mobile · Backend</sub>
+
+</td>
+
+<td width="30"></td>
+
+<td align="center">
+
+### SYSTEMS
+
+**REAL-TIME**
+
+<sub>Messaging · Calling · Presence</sub>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/RATIWALRAHUL?tab=overview">
 <img
-src="https://streak-stats.demolab.com/?user=RATIWALRAHUL&theme=transparent&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E"
-alt="GitHub streak"
+src="https://img.shields.io/badge/VIEW_GITHUB_ACTIVITY-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA"
+alt="View GitHub activity"
 />
+</a>
 
 </div>
 
 ---
 
-## `09` — FOCUS
+## `08` — CURRENT FOCUS
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│  WEB              MOBILE             BACKEND                │
-│  React            React Native       Node.js                │
-│  Next.js          Android            Express                │
-│  TypeScript                          MongoDB                │
+│  PRODUCT ENGINEERING                                        │
+│  Building complete products from interface to production.  │
 │                                                             │
-│  REAL-TIME        PRODUCT            DESIGN                 │
-│  Socket.io        Architecture       Figma                  │
-│  Redis            UX / UI            Design Systems         │
+│  REAL-TIME SYSTEMS                                          │
+│  Messaging · Presence · Notifications · Live Communication  │
+│                                                             │
+│  MOBILE EXPERIENCES                                         │
+│  React Native applications with native-quality UX.          │
+│                                                             │
+│  PRODUCT UI / UX                                             │
+│  Interfaces designed with clarity, hierarchy, and intent.   │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## `10` — CONNECT
+## `09` — CONNECT
 
 <div align="center">
 
 ### Have an idea worth building?
 
-**Let's turn it into something real.**
+I'm always interested in interesting products, collaborations, and ambitious ideas.
 
 <br/>
 
 <a href="https://www.linkedin.com/in/ratiwalrahulkumawat">
-<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-A78BFA?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="LinkedIn"/>
+<img
+src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-A78BFA?style=for-the-badge&logo=linkedin&logoColor=0D1117"
+alt="Connect on LinkedIn"
+/>
 </a>
 
+&nbsp;
+
 <a href="https://www.instagram.com/ratiwalrahul">
-<img src="https://img.shields.io/badge/FOLLOW_ON_INSTAGRAM-A78BFA?style=for-the-badge&logo=instagram&logoColor=0D1117" alt="Instagram"/>
+<img
+src="https://img.shields.io/badge/FOLLOW_ON_INSTAGRAM-A78BFA?style=for-the-badge&logo=instagram&logoColor=0D1117"
+alt="Follow on Instagram"
+/>
 </a>
 
 <br/><br/>
 
 <sub>Rahul Kumawat · India</sub>
 
-<br/><br/>
+<br/>
 
-`BUILD · SHIP · ITERATE`
+<sub>BUILD · SHIP · ITERATE</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>© Rahul Kumawat · Built with intent.</sub>
 
 </div>
