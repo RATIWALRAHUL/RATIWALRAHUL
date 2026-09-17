@@ -1,215 +1,211 @@
 <div align="center">
 
-# RAHUL KUMAWAT
-
-### Full-Stack Developer · Product Builder · Creative Technologist
-
-**I turn ideas into polished digital products — from interface to backend to production.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:1a1a1a&height=200&section=header&text=RAHUL%20KUMAWAT&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20·%20Product%20Builder%20·%20Creative%20Technologist&descAlignY=58&descSize=16&descColor=cccccc&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratiwalrahulkumawat)
-[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ratiwalrahul)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Turning+ideas+into+polished+digital+products;Interface+%E2%86%92+Backend+%E2%86%92+Production;Full-Stack+%C2%B7+Real-Time+%C2%B7+Mobile" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/ratiwalrahulkumawat">
+<img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=A78BFA" />
+</a>
+<a href="https://www.instagram.com/ratiwalrahul">
+<img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=A78BFA" />
+</a>
 
 </div>
 
----
+<br/>
 
-## `01` — ABOUT
+## <img src="https://skillicons.dev/icons?i=react" width="26"/>&nbsp; About
 
-<table>
+<table width="100%">
 <tr>
-<td width="65%" valign="top">
+<td width="62%" valign="top">
 
-I'm a developer focused on building **real products**, not just demos.
+I'm a developer focused on building **real products** — not demos, not prototypes that die after the pitch.
 
-I work across the full product stack — designing interfaces, building APIs, working with databases, implementing real-time systems, and shipping web and mobile applications.
+I work across the entire product stack: designing interfaces, building APIs, architecting databases, implementing real-time systems, and shipping to production on web and mobile.
 
-My approach is simple:
+<br/>
 
-> **Good products need good engineering and good design.**
+> *"Good products need good engineering **and** good design — neither one alone is enough."*
+
+<br/>
+
+**BUILD · SHIP · ITERATE**
 
 </td>
+<td width="38%" valign="top">
 
-<td width="35%" valign="top">
+<table>
+<tr><td>
 
-### CURRENT FOCUS
+**⚙️ Core Stack**
 
-`Full-Stack`
-
-`React / Next.js`
-
+`React` · `Next.js`
 `React Native`
-
-`Node.js`
-
+`Node.js` · `TypeScript`
 `Real-Time Systems`
-
 `Product UI/UX`
+
+</td></tr>
+</table>
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## `02` — SELECTED WORK
+## <img src="https://skillicons.dev/icons?i=vscode" width="26"/>&nbsp; Selected Work
 
-### 🟣 RUBARU
-**Social · Dating · Messaging · Real-Time Communication**
+<table width="100%">
 
-A social and dating platform combining discovery, messaging, presence and audio/video communication into one product experience.
+<tr>
+<td width="8%" align="center"><h2>🟣</h2></td>
+<td width="92%">
 
-**Stack**
+**RUBARU** — *Social · Dating · Messaging · Real-Time Communication*
+<br/>
+A social and dating platform combining discovery, messaging, presence, and audio/video communication into a single, seamless product experience.
+<br/><br/>
+<img src="https://img.shields.io/badge/React_Native-0A0A0A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-0A0A0A?style=flat-square&logo=nodedotjs&logoColor=339933"/> <img src="https://img.shields.io/badge/Express-0A0A0A?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-0A0A0A?style=flat-square&logo=mongodb&logoColor=47A248"/> <img src="https://img.shields.io/badge/Socket.io-0A0A0A?style=flat-square&logo=socketdotio&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-0A0A0A?style=flat-square&logo=redis&logoColor=DC382D"/>
 
-`React Native` `Node.js` `Express` `MongoDB` `Socket.io` `Redis`
+</td>
+</tr>
 
----
+<tr><td colspan="2"><br/></td></tr>
 
-### 🟠 RUCHIKA CREATION
-**Luxury Indian Ethnicwear · E-Commerce**
+<tr>
+<td width="8%" align="center"><h2>🟠</h2></td>
+<td width="92%">
 
-A premium e-commerce experience focused on luxury presentation, product discovery and a modern shopping journey.
+**RUCHIKA CREATION** — *Luxury Indian Ethnicwear · E-Commerce*
+<br/>
+A premium e-commerce experience built around refined presentation, intuitive product discovery, and a modern shopping journey.
+<br/><br/>
+<img src="https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=flat-square&logo=tailwindcss&logoColor=38BDF8"/>
 
-**Stack**
+</td>
+</tr>
 
-`Next.js` `TypeScript` `React` `Tailwind CSS`
+<tr><td colspan="2"><br/></td></tr>
 
----
+<tr>
+<td width="8%" align="center"><h2>🔵</h2></td>
+<td width="92%">
 
-### 🔵 RATIWAL DREAM ESTATES
-**Real Estate · Property Discovery · Lead Generation**
+**RATIWAL DREAM ESTATES** — *Real Estate · Property Discovery · Lead Generation*
+<br/>
+A modern real-estate platform built around premium property presentation, discovery, lead capture, and business workflows.
+<br/><br/>
+<img src="https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/MongoDB-0A0A0A?style=flat-square&logo=mongodb&logoColor=47A248"/>
 
-A modern real-estate platform designed around premium property presentation, discovery, lead capture and business workflows.
+</td>
+</tr>
 
-**Stack**
+<tr><td colspan="2"><br/></td></tr>
 
-`Next.js` `React` `TypeScript` `MongoDB`
+<tr>
+<td width="8%" align="center"><h2>⚡</h2></td>
+<td width="92%">
 
----
+**PARTHAV TECHNOLOGIES** — *Technology · Digital Products*
+<br/>
+Digital product engineering focused on modern interfaces, practical business workflows, and maintainable, scalable code.
+<br/><br/>
+<img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=nextdotjs&logoColor=white"/>
 
-### ⚡ PARTHAV TECHNOLOGIES
-**Technology · Digital Products**
+</td>
+</tr>
 
-Digital product work focused on modern interfaces, practical business workflows and maintainable engineering.
+</table>
 
-**Stack**
+<br/>
 
-`TypeScript` `React` `Next.js`
-
----
-
-## `03` — TECHNOLOGY
+## <img src="https://skillicons.dev/icons?i=git" width="26"/>&nbsp; Technology
 
 <div align="center">
 
-### FRONTEND
-
+**Frontend**
+<br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css" />
 
-### BACKEND
+<br/><br/>
 
+**Backend**
+<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
 
-### MOBILE & TOOLS
+<br/><br/>
 
+**Mobile & Tooling**
+<br/>
 <img src="https://skillicons.dev/icons?i=react,androidstudio,git,github,vscode,figma" />
 
 </div>
 
----
+<br/>
 
-## `04` — WHAT I LIKE BUILDING
-
-```text
-WEB
-████████████████████  Modern full-stack applications
-
-MOBILE
-██████████████████░░  React Native & native experiences
-
-BACKEND
-███████████████████░  APIs, databases & architecture
-
-REAL-TIME
-████████████████░░░░  Messaging, presence & communication
-
-UI / UX
-█████████████████░░░  Premium interfaces & product systems
-```
-
----
-
-## `05` — CURRENTLY BUILDING
-
-<table>
-<tr>
-<td align="center">01</td>
-<td>Full-stack product experiences</td>
-</tr>
-<tr>
-<td align="center">02</td>
-<td>Real-time communication architecture</td>
-</tr>
-<tr>
-<td align="center">03</td>
-<td>React Native mobile applications</td>
-</tr>
-<tr>
-<td align="center">04</td>
-<td>Premium interfaces and design systems</td>
-</tr>
-<tr>
-<td align="center">05</td>
-<td>Backend systems built for real-world products</td>
-</tr>
-</table>
-
----
-
-## `06` — GITHUB
+## <img src="https://skillicons.dev/icons?i=figma" width="26"/>&nbsp; What I Like Building
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RATIWALRAHUL&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165"/>
+| Domain | Focus |
+|:--|:--|
+| 🌐 **Web** | Modern full-stack applications |
+| 📱 **Mobile** | React Native & native-feeling experiences |
+| 🗄️ **Backend** | APIs, databases & scalable architecture |
+| ⚡ **Real-Time** | Messaging, presence & live communication |
+| 🎨 **UI/UX** | Premium interfaces & design systems |
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RATIWALRAHUL&layout=compact&hide_border=true&langs_count=8" height="165"/>
+</div>
+
+<br/>
+
+## <img src="https://skillicons.dev/icons?i=github" width="26"/>&nbsp; GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RATIWALRAHUL&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=dark&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RATIWALRAHUL&layout=compact&hide_border=true&langs_count=8&theme=dark&bg_color=0D1117&title_color=A78BFA" height="165"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=RATIWALRAHUL&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=RATIWALRAHUL&hide_border=true&theme=dark&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RATIWALRAHUL&hide_border=true&area=true&color=A78BFA&line=A78BFA&point=ffffff&bg_color=0D1117" width="100%"/>
 
 </div>
 
----
-
-## `07` — CONTRIBUTIONS
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RATIWALRAHUL&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
-## `08` — CONNECT
-
-<div align="center">
-
-### Have an idea worth building?
+## Have an idea worth building?
 
 **Let's turn it into something real.**
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratiwalrahulkumawat)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ratiwalrahul)
+<a href="https://www.linkedin.com/in/ratiwalrahulkumawat">
+<img src="https://img.shields.io/badge/LET'S_CONNECT-A78BFA?style=for-the-badge&logo=linkedin&logoColor=0A0A0A" />
+</a>
+<a href="https://www.instagram.com/ratiwalrahul">
+<img src="https://img.shields.io/badge/FOLLOW_ALONG-A78BFA?style=for-the-badge&logo=instagram&logoColor=0A0A0A" />
+</a>
 
 <br/><br/>
 
-`BUILD · SHIP · ITERATE`
+`BUILD` · `SHIP` · `ITERATE`
 
-<sub>Rahul Kumawat</sub>
+<sub>© Rahul Kumawat — crafted with intent.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0F0F0F&height=100&section=footer" width="100%"/>
 
 </div>
