@@ -1,23 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:1a1a1a&height=200&section=header&text=RAHUL%20KUMAWAT&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20·%20Product%20Builder%20·%20Creative%20Technologist&descAlignY=58&descSize=16&descColor=cccccc&animation=fadeIn" width="100%"/>
+# RAHUL KUMAWAT
+
+### Full-Stack Developer&nbsp;·&nbsp;Product Builder&nbsp;·&nbsp;Creative Technologist
+
+**Turning ideas into polished digital products — interface → backend → production.**
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Turning+ideas+into+polished+digital+products;Interface+%E2%86%92+Backend+%E2%86%92+Production;Full-Stack+%C2%B7+Real-Time+%C2%B7+Mobile" alt="Typing SVG" />
-
-<br/><br/>
-
 <a href="https://www.linkedin.com/in/ratiwalrahulkumawat">
-<img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=0A0A0A" />
 </a>
 <a href="https://www.instagram.com/ratiwalrahul">
-<img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Instagram-A78BFA?style=for-the-badge&logo=instagram&logoColor=0A0A0A" />
 </a>
 
 </div>
 
-<br/>
+---
 
 ## <img src="https://skillicons.dev/icons?i=react" width="26"/>&nbsp; About
 
@@ -58,7 +58,7 @@ I work across the entire product stack: designing interfaces, building APIs, arc
 </tr>
 </table>
 
-<br/>
+---
 
 ## <img src="https://skillicons.dev/icons?i=vscode" width="26"/>&nbsp; Selected Work
 
@@ -124,7 +124,7 @@ Digital product engineering focused on modern interfaces, practical business wor
 
 </table>
 
-<br/>
+---
 
 ## <img src="https://skillicons.dev/icons?i=git" width="26"/>&nbsp; Technology
 
@@ -148,7 +148,7 @@ Digital product engineering focused on modern interfaces, practical business wor
 
 </div>
 
-<br/>
+---
 
 ## <img src="https://skillicons.dev/icons?i=figma" width="26"/>&nbsp; What I Like Building
 
@@ -164,26 +164,24 @@ Digital product engineering focused on modern interfaces, practical business wor
 
 </div>
 
-<br/>
+---
 
 ## <img src="https://skillicons.dev/icons?i=github" width="26"/>&nbsp; GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RATIWALRAHUL&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=dark&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RATIWALRAHUL&layout=compact&hide_border=true&langs_count=8&theme=dark&bg_color=0D1117&title_color=A78BFA" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RATIWALRAHUL&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=dark&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" height="165" alt="Rahul's GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RATIWALRAHUL&layout=compact&hide_border=true&langs_count=8&theme=dark&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" height="165" alt="Top languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=RATIWALRAHUL&hide_border=true&theme=dark&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RATIWALRAHUL&hide_border=true&area=true&color=A78BFA&line=A78BFA&point=ffffff&bg_color=0D1117" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=RATIWALRAHUL&hide_border=true&theme=dark&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub streak stats"/>
 
 </div>
 
 <br/>
+
+---
 
 <div align="center">
 
@@ -205,7 +203,5 @@ Digital product engineering focused on modern interfaces, practical business wor
 `BUILD` · `SHIP` · `ITERATE`
 
 <sub>© Rahul Kumawat — crafted with intent.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0F0F0F&height=100&section=footer" width="100%"/>
 
 </div>
