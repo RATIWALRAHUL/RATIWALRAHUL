@@ -1,0 +1,25 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1600" y2="420">
+<stop offset="0" stop-color="#08090c"/><stop offset=".55" stop-color="#11151c"/><stop offset="1" stop-color="#08090c"/>
+</linearGradient>
+<linearGradient id="l" x1="100" y1="350" x2="1500" y2="80">
+<stop stop-color="#7c3aed"/><stop offset=".5" stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/>
+</linearGradient>
+</defs>
+<rect width="1600" height="420" rx="24" fill="url(#g)"/>
+<circle cx="1380" cy="40" r="190" fill="#7c3aed" opacity=".10"/>
+<circle cx="230" cy="410" r="190" fill="#22d3ee" opacity=".06"/>
+<path d="M-50 340C300 150 470 430 770 250C1030 95 1170 320 1650 65" fill="none" stroke="url(#l)" stroke-width="2" opacity=".65"/>
+<path d="M-50 370C300 190 470 460 780 280C1040 130 1180 350 1650 100" fill="none" stroke="url(#l)" opacity=".22"/>
+<text x="110" y="125" fill="#9ca6b5" font-family="Arial" font-size="18" letter-spacing="6">RAHUL KUMAWAT</text>
+<text x="110" y="205" fill="white" font-family="Arial" font-size="55" font-weight="700">FULL-STACK DEVELOPER</text>
+<text x="113" y="250" fill="#9ca6b5" font-family="Arial" font-size="22">Building digital products from idea → interface → production.</text>
+<g font-family="Arial" font-size="13" fill="#d7dce5">
+<rect x="110" y="292" width="105" height="36" rx="18" fill="#171c24" stroke="#303744"/><text x="162" y="315" text-anchor="middle">WEB</text>
+<rect x="228" y="292" width="105" height="36" rx="18" fill="#171c24" stroke="#303744"/><text x="280" y="315" text-anchor="middle">MOBILE</text>
+<rect x="346" y="292" width="105" height="36" rx="18" fill="#171c24" stroke="#303744"/><text x="398" y="315" text-anchor="middle">BACKEND</text>
+<rect x="464" y="292" width="105" height="36" rx="18" fill="#171c24" stroke="#303744"/><text x="516" y="315" text-anchor="middle">REAL-TIME</text>
+</g>
+<text x="1370" y="340" text-anchor="middle" fill="#596474" font-family="Arial" font-size="12" letter-spacing="4">BUILD · SHIP · ITERATE</text>
+</svg>
